@@ -1,9 +1,8 @@
-# Compiled binaries and build artifacts
-bin/
-*.exe
+# Compiled intermediate objects
 *.obj
 *.o
 *.out
+bin/build/
 
 # Visual Studio / VS Code temp files
 .vscode/
