@@ -1,0 +1,10 @@
+# Compiled binaries and build artifacts
+bin/
+*.exe
+*.obj
+*.o
+*.out
+
+# Visual Studio / VS Code temp files
+.vscode/
+.vs/
